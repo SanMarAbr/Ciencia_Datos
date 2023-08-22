@@ -1,0 +1,9 @@
+---
+output: html_document
+---
+---
+ctrl+alt+k ejecutar lineas de codigo en r
+ctrl+enter corre codigo
+```{r}
+
+```
